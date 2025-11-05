@@ -53,3 +53,6 @@ TagManager:
   - name: char
     uniqueID: 2634317779
     locked: 0
+  - name: mashroom
+    uniqueID: 2361348833
+    locked: 0
